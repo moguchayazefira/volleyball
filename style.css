@@ -1,0 +1,16 @@
+h1 {
+    color: gold;
+    text-align: center;
+}
+p {
+    color:gold;
+    text-align: center;
+}
+img {
+    text-align: center;
+    width:300px;
+    height:300px;
+}
+html {
+    background-image: url(https://st2.depositphotos.com/3591429/5246/i/600/depositphotos_52461193-stock-photo-people-playing-beach-volleyball.jpg);
+}
